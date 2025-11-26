@@ -24,7 +24,7 @@ Perfect for researchers, data scientists, marketers, and businesses looking for 
 - **Source:** Public customer reviews from **Trustpilot** (trustpilot.com)
 - **Data Type:** Customer reviews dataset, review analytics data, sentiment analysis dataset
 - **Scope:** Company-level customer feedback across multiple industries and sectors
-- **Full Dataset Size:** Large-scale dataset (multiple hundreds of MB / GB)
+- **Full Dataset Size:** Large-scale dataset (2135 MSCI list companies of 1.31GB)
 - **Format:** Excel files (.xlsx) - ready for Excel, Python pandas, R, or any data analysis tool
 - **Content Type:** Review metadata, star ratings (1-5), and free-text customer feedback
 - **Status:** Latest collected version at time of creation
@@ -39,9 +39,7 @@ This **Trustpilot reviews dataset** is designed for:
 - **Market Research & Competitive Analysis** - Understand customer perceptions, complaints, and preferences
 - **Machine Learning & AI Training** - Fine-tune LLMs, build recommendation systems, train classifiers
 - **Academic Research** - Consumer behavior studies, trust in brands, cross-cultural analysis
-- **Business Intelligence** - Track review trends, analyze customer feedback, improve products/services  
-
-> ℹ️ You can adapt the numbers (size, coverage, etc.) in this README to match your exact dataset stats.
+- **Business Intelligence** - Track review trends, analyze customer feedback, improve products/services 
 
 ---
 
