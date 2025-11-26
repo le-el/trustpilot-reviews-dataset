@@ -13,7 +13,7 @@ This repository provides a **preview** of a large-scale **Trustpilot customer re
 
 Perfect for researchers, data scientists, marketers, and businesses looking for **real customer feedback data** for analysis, training machine learning models, or conducting market research.
 
-> 📧 **Need the full dataset?** Contact: **a.corradini0215@gmail.com**
+> 📧 **Need the full dataset?** Contact: **a.corradini0215@gmail.com** | 💬 Telegram: **[@buddior](https://t.me/buddior)**
 
 ---
 
@@ -199,7 +199,8 @@ We can provide:
 
 ### How to Request Access
 
-> 📧 **Contact:** **a.corradini0215@gmail.com**
+> 📧 **Email:** **a.corradini0215@gmail.com**  
+> 💬 **Telegram:** **[@buddior](https://t.me/buddior)**
 
 **Please include in your request:**
 - Your intended use case (research, commercial, academic, internal analytics)
@@ -252,4 +253,8 @@ If you have questions about:
 - Custom data requests
 - Licensing and terms
 
-Feel free to reach out via the contact email above. We're happy to help you find the right data solution for your needs.
+Feel free to reach out via email or Telegram. We're happy to help you find the right data solution for your needs.
+
+**Contact:**
+- 📧 Email: **a.corradini0215@gmail.com**
+- 💬 Telegram: **[@buddior](https://t.me/buddior)**
